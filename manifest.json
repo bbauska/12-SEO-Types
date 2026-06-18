@@ -1,6 +1,8 @@
 {
- "name": "App",
- "icons": [
+  "name": "12 SEO Types",
+  "short_name": "SEO", 
+  "start_url": "/seo.bauska.org",
+  "display": "standalone", "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
